@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.13.0",
+    "mongoose": "^8.2.3",
+    "slugify": "^1.6.6"
+  }
+}
